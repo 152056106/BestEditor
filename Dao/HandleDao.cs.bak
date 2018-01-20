@@ -21,23 +21,6 @@ namespace Dao
             sw.Dispose();      
         }
         public void delete() { 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         
         }
         public void update(TextContent text)
